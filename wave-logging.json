@@ -1,7 +1,7 @@
 {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "changelogs": [
-        "Update in txAdmin logs",
-        "Optimized the code"
+        "Added Join logs",
+        "Added Leave logs"
     ]
 }
